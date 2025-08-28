@@ -20,6 +20,7 @@ This is a lightweight boilerplate project for building a **design system** using
 
 ## 📁 Project Structure
 
+<pre>
 src/
 ├── components/
 │ ├── button/
@@ -46,6 +47,7 @@ src/
 │
 └── utils/
   └── index.ts
+</pre>
 
 ---
 
